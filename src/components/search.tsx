@@ -1,3 +1,4 @@
+'use client'
 export default function Search() {
     return (<div
         className={"container mx-auto px-4 py-10 bg-amber min-w-full h-full flex flex-col justify-center items-center"}>
