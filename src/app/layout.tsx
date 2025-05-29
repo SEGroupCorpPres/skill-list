@@ -40,7 +40,6 @@ export default function RootLayout({
             {children}
         </ItemProvider>
         <Footer/>
-
         </body>
         </html>
     );

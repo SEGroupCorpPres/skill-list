@@ -43,7 +43,7 @@ export default function AppNavbar() {
                     {/*</div>*/}
                     <div className="flex  items-center w-full justify-center sm:items-stretch sm:justify-start">
                         <div className="flex shrink-0 items-center">
-                            <h3 className={"text-center text-white font-black "}>skill-list</h3>
+                            <h3 className={"text-center text-white font-black text-3xl"}>skill-list</h3>
                         </div>
                         {/*<div className="hidden sm:ml-6 sm:block w-full">*/}
                         {/*    <div className="flex flex-row  justify-center space-x-4">*/}
